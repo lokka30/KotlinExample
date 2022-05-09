@@ -1,0 +1,10 @@
+# IntelliJ
+*.iml
+.idea/
+
+# Maven
+target/
+
+# macOS junk
+._.git
+.DS_Store

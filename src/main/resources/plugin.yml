@@ -1,0 +1,11 @@
+api-version: '1.13'
+authors: ['lokka30']
+commands:
+  example:
+    description: 'Example command'
+    usage: '/<command> [any args]'
+description: 'Example of a Bukkit plugin written in Kotlin'
+name: 'KotlinExample'
+main: 'me.lokka30.kotlinexample.KotlinExample'
+version: '${project.version}'
+website: 'https://github.com/lokka30/'
